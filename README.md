@@ -37,7 +37,7 @@ The dataset includes the following columns:
 A pie chart was created to visualize the gender distribution within the dataset. 
 The analysis revealed a significant majority of male participants, indicating potential areas for further exploration regarding gender dynamics in academic environments.
 
-![Gender Distribution Pie Chart](Gender Distribution Pie Chart.png)
+![Gender Distribution Pie Chart](Gender_Distribution_Pie_Chart.png)
 
 ## Correlation Analysis
 The analysis identified the top three highest correlations in the dataset:
@@ -45,7 +45,6 @@ The analysis identified the top three highest correlations in the dataset:
 2. **Depression and Isolation**: Correlation coefficient: 0.71
 3. **Isolation and Anxiety**: Correlation coefficient: 0.67
 
-These correlations suggest that [brief interpretation of what these correlations imply about the dataset].
 
 ## Conclusion
 This project highlights the gender distribution and significant correlations within the dataset, providing insights into the academic experiences of students. 
